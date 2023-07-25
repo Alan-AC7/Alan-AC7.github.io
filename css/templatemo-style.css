@@ -219,8 +219,7 @@ h1,h2,h3,h4,h5
        color: white;
        font-weight: bold;
        font-size: 22px;
-       -webkit-text-stroke: 1px #000000;
-       text-stroke: 1px #000000;
+      
     }
     
 
